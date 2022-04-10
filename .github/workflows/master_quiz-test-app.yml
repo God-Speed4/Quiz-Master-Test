@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'quiz-test-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_002FF2589A9D4C9DB19145C59E27E53B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A84547027D343DFAFDA1590B62D7D46 }}
           package: .
